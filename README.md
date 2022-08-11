@@ -15,7 +15,7 @@ Nothing--just click on the link in the "Deployment" section below to view the ap
 
 ## Deployment
 
-You can find the finished application at: https://august-lascola.github.io/Horiseon-accessibility/ 
+You can find the finished application at: https://august-lascola.github.io/PortfolioPageV1/
 
 Media queries are brand new to me--I wasn't able to put as much time into perfecting the styling as I would have liked, but resizing the window will show basic functionality. 
 
